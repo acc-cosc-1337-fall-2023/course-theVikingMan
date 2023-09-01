@@ -15,6 +15,8 @@ int main()
     num = 100; //assign the value 100
 
     cout<<"Num: "<<num<<"\n";
-    
+
+    // example
+
     return 0;
 }
